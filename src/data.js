@@ -14,11 +14,11 @@ export const CODE = [
   [['', '  name: '], ['s', "'Sreenandan P P'"], ['', ',']],
   [['', '  role: '], ['s', "'Full Stack Developer'"], ['', ',']],
   [['', '  frontend: ['], ['s', "'Angular'"], ['', ', '], ['s', "'TypeScript'"], ['', '],']],
-  [['', '  backend: ['], ['s', "'Node.js'"], ['', ', '], ['s', "'.NET APIs'"], ['', '],']],
+  [['', '  backend: ['], ['s', "'Node.js'"], ['', ', '], ['s', "'Express.js'"], ['', '],']],
   [['', '  data: '], ['s', "'MongoDB'"], ['', ',']],
   [['', '  state: '], ['s', "'NgRx + RxJS'"], ['', ',']],
   [['', '  builds: '], ['s', "'ERP · POS · Real-time'"], ['', ',']],
-  [['', '  experience: '], ['n', '3'], ['', ', '], ['c', '// years']],
+  [['', '  experience: '], ['n', '2'], ['', ', '], ['c', '// years']],
   [['', '  openToWork: '], ['n', 'true']],
   [['', '};']],
 ]

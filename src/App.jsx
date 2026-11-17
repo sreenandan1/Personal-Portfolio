@@ -94,7 +94,7 @@ function About() {
             <p>My recent work is a restaurant ERP and POS where billing, kitchen screens and reports must stay in sync live. I care about clean code, speed and interfaces people enjoy using.</p>
           </div>
           <div className="st">
-            {[['3+', 'years of experience'], ['10+', 'modules shipped'], ['3', 'languages spoken'], ['100%', 'responsive builds']].map(([n, l]) => (
+            {[['2+', 'years of experience'], ['10+', 'modules shipped'], ['3', 'languages spoken'], ['100%', 'responsive builds']].map(([n, l]) => (
               <div className="glass" key={l}><b>{n}</b><span>{l}</span></div>
             ))}
           </div>
